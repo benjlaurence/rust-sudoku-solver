@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "bools"
+    ],
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml"
+    ]
+}
